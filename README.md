@@ -3,4 +3,4 @@ Interim-test
 
 Testing my first Git.
 
-Colton Malone
+Colton Malone is awesome.
